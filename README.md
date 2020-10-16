@@ -1,2 +1,0 @@
-# infoviz
-Test
